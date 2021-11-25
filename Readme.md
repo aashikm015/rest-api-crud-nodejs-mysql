@@ -1,8 +1,8 @@
 # REST API using nodejs and mysql
 
 prerequisite:
-    - Make sure you install mysql by run `mysql --version` <br />
-    - Make sure tou install nodejs by run `node --version`
+    - Make sure you install mysql by run `mysql --version` \
+    - Make sure tou install nodejs by run `node --version` \
 
 ## Initialize and configure:
  
@@ -14,7 +14,7 @@ prerequisite:
     $ npm install
     $ npm start
     ```
-    2. Now test your api with [postman](https://www.postman.com/downloads/) or any other testing tools.<br /> 
+    2. Now test your api with [postman](https://www.postman.com/downloads/) or any other testing tools. \
     If you are using visual studio code , I recommend you to install [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) and test the api.
 
 
@@ -32,25 +32,27 @@ prerequisite:
 
 # API TESTING:
 
-- Creating a new employee `api/v1/employees` using `POST` method <br />
-![createUser image](https://raw.githubusercontent.com/aashikm015/rest-api-crud-nodejs-mysql/main/Z_api_test_screenshots/createUser.png)
-<br />
+- Creating a new employee `api/v1/employees` using `POST` method \
+\
 
-- Get all employees list `api/v1/employees` using `GET` method <br />
+![createUser image](https://raw.githubusercontent.com/aashikm015/rest-api-crud-nodejs-mysql/main/Z_api_test_screenshots/createUser.png)
+\
+
+- Get all employees list `api/v1/employees` using `GET` method \
 ![getAllUsers image](https://raw.githubusercontent.com/aashikm015/rest-api-crud-nodejs-mysql/main/Z_api_test_screenshots/getAllUsers.png)
-<br />
+\
 
 - Get specific employee `api/v1/employees/id` using `GET` method
 ![getUser image](https://raw.githubusercontent.com/aashikm015/rest-api-crud-nodejs-mysql/main/Z_api_test_screenshots/getUser.png)
-<br />
+\
 
-- Update specific employee `api/v1/employees/id` using `PUT` method <br />
+- Update specific employee `api/v1/employees/id` using `PUT` method \
 ![updateUser image](https://raw.githubusercontent.com/aashikm015/rest-api-crud-nodejs-mysql/main/Z_api_test_screenshots/updateUser.png)
-<br />
+\
 
-- Delete specific employee `api/v1/employees/id` using `DELETE` method <br />
+- Delete specific employee `api/v1/employees/id` using `DELETE` method \
 ![deleteUser image](https://raw.githubusercontent.com/aashikm015/rest-api-crud-nodejs-mysql/main/Z_api_test_screenshots/deleteUser.png)
-<br />
+\
 
 for more @aashikm015 :+1: Thank you. :shipit:
 
